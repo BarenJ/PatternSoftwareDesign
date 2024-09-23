@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PSD_AOL", "PSD_AOL\PSD_AOL.csproj", "{B51BA37A-C3CD-471A-AB41-77740C0CC625}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B51BA37A-C3CD-471A-AB41-77740C0CC625}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B51BA37A-C3CD-471A-AB41-77740C0CC625}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B51BA37A-C3CD-471A-AB41-77740C0CC625}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B51BA37A-C3CD-471A-AB41-77740C0CC625}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F13134D-4B83-4C3D-B66A-BA158458839B}
+	EndGlobalSection
+EndGlobal
